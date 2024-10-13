@@ -1,0 +1,71 @@
+body {
+    font-family: "Marmelad", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    background-color: rgb(255, 86, 159);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    color: #35302a;
+    
+}
+
+.c {
+    background-color: #ffffff;
+    font-size: 15px;
+    width: 450px;
+    margin-bottom: 0px;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 100px 0;
+
+    border-radius: 60px;
+
+    box-shadow: 0 0 0 20px rgb(238, 206, 220),
+        /* Внутренний контур */
+        0 0 0 60px rgb(252, 140, 189), 0 0 0 120px rgb(250, 107, 169);
+    /* Внешний контур */
+
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2.5rem;
+}
+
+.but {
+    color: #ffffff;
+    font-weight: bolder;
+    display: block;
+    width: 60%;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(255, 86, 159);
+    border: 3px solid rgb(252, 140, 189);
+    border-radius: 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.2rem;
+
+
+
+
+
+}
+
+p {
+    font-size: 1.2rem;
+    text-align: center;
+}
